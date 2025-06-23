@@ -59,6 +59,10 @@ button{
     background-color: #fb7c14;
 }
 
+.bttn{
+    width: 200px;
+}
+
 .operator{
     color: #6dee0a;
 }
